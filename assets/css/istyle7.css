@@ -1,0 +1,64 @@
+*{
+    margin: 0 ;
+    padding: 0 ;
+    box-sizing: border-box;
+}
+body{
+    background-color:#05c46b;
+   
+}
+
+.main-div{
+ background-color: rgb(250, 246, 246);
+ width: 400px;
+ height: 550px;
+ margin :70px  276px 60px 464px;
+ box-shadow: 1px 1px 1px rgb(34, 33, 33);
+ 
+}
+.p-header{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    padding-top: 15px;
+    padding-left: 20px;
+    color: darkgrey;
+
+}
+ span{
+ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ padding-left: 25px;
+ font-size: 15px;
+  color: darkgrey;
+    
+} 
+.form-control{
+    width: 350px;
+    height: 40px;
+    margin-left: 25px;
+    margin-top: 20px;
+    padding-left: 6px; 
+
+}
+.form-textarea{
+    width: 350px;
+    height: 80px;
+    margin-left: 25px;
+    margin-top: 20px;
+    padding-top: 8px;
+    padding-left: 6px;
+}
+.btn-form{
+    margin-left: 25px;
+    width: 350px;
+    height: 40px;
+    margin-top: 25px;
+    color: white;
+    border: none;
+    background-color:#03a85b;
+}
+.p-footer{
+ padding-top: 20px;
+ padding-left: 125px;
+ font-size: 15px;
+ color: darkgrey;
+}
